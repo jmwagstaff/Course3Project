@@ -53,3 +53,4 @@ in which the mean is calculated for all the variables for all possible
 combinations of subject and activity.
 
 
+# Course3Project
